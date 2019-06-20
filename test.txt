@@ -12,3 +12,10 @@
 # Mac
 
 .DS_Store
+
+#Toevoeging:
+
+git status
+git add .
+git commit -m "meesage"
+git push
