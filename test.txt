@@ -1,0 +1,14 @@
+# Eclipse
+
+.classpath
+.project
+.settings/
+
+# Intelijj
+
+.idea/
+*.iws
+
+# Mac
+
+.DS_Store
